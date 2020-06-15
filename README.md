@@ -1,5 +1,5 @@
 # trayek
-Sistem Administrasi Proyek. Sebuah proyek pembuatan sebuah sistem informasi yang dikerjakan oleh beberapa mahasiswa Fakultas Ilmu Komputer Universitas Indonesia. Proyek ini bertujuan untuk memenuhi tugas pada mata kuliah Proyek Pengembangan Sistem Informasi
+Sistem Administrasi Proyek. Sebuah proyek pembuatan sebuah sistem informasi yang dikerjakan oleh beberapa mahasiswa Fakultas Ilmu Komputer Universitas Indonesia. Proyek ini bertujuan untuk memenuhi tugas pada mata kuliah Proyek Pengembangan Sistem Informasi.
 
 ## Tim Pengembang:
 - **Adyanissa Farsya Kirana** (1606918212)
